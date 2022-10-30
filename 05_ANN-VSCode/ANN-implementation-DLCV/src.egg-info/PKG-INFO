@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.2
+Summary: A small package for ANN Implementation
+Home-page: https://github.com/Jateendra/ANN-implementation-DLCV-Py
+Author: Jateendra
+Author-email: mypython.pradhan@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# ANN-implementation-DLCV
+ANN-implementation-DLCV
